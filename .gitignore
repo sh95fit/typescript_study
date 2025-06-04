@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+.next/
+out/
+coverage/
+lib/
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# React Native
+.expo/
+*.expo
+
+# Next.js
+.next/
+out/
+
+# Nest.js
+dist/
+.cache/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.local
+*.swp
+*.swo
+*.bak
+*.tmp
